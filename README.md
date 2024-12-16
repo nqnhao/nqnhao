@@ -4,7 +4,7 @@
 ## Biography
 * **Country of origin:** Vietnam 🇻🇳
 * **Academic background**:
-  * BPharm in Pharmacy - University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam 🇻🇳
+  * BPharm - University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam 🇻🇳
   * MSc in Intenational Health and Tropical Medicine - University of Oxford, United Kingdom 🇬🇧
 * **Professional background:**
   * Clinical pharmacist
